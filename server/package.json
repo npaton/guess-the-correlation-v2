@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@empirica/admin": "^1.0.0-alpha.4",
+    "minimist": "1.2.5",
+    "rand-seed": "1.0.1"
+  },
+  "devDependencies": {},
+  "name": "guess-the-correlation-empirica-server",
+  "private": true,
+  "type": "module"
+}
